@@ -1,6 +1,21 @@
+**Contacto**: 
+
+<a href="mailto:agustinsilviorojas@outlook.com.ar"><img src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-07-256.png" width="40"></a>
+
+
+**Linkedin:**
+
+<a href="https://www.linkedin.com/in/agustinsilviorojas/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 # {{ cookiecutter.project_name }}
 
 {{ cookiecutter.project_description }}
+
+# Index
+
+- [Installation guide](#installation-guide)
+- [Project Organization](#project-organization)
   
 ## Installation guide
 
